@@ -1,0 +1,24 @@
+{
+  "name": "codingwithrk/rk-sweet-alert",
+  "description": "A Laravel package to implement SweetAlert.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Codingwithrk\\RkSweetAlert\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4|^8.0",
+    "laravel/framework": "^8.0|^9.0|^10.0|^11.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Codingwithrk\\RkSweetAlert\\RkSweetAlertServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
