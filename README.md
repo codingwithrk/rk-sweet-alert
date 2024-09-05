@@ -1,7 +1,5 @@
 ![Screenshot](https://codingwithrk.com/public/package-banner/rk-sweet-alert.png)
 
-<h1 align="center">RK Sweet Alert</h1>
-
 <p align="center">
     <a>
         <img alt="Packagist License" src="https://img.shields.io/packagist/l/codingwithrk/rk-sweet-alert">
