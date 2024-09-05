@@ -1,3 +1,5 @@
+![Screenshot](https://codingwithrk.com/public/package-banner/rk-sweet-alert.png)
+
 <h1 align="center">RK Sweet Alert</h1>
 
 <p align="center">
@@ -48,7 +50,7 @@ session()->flash('rk-alert', [
 #### publish vendor config file 
 
 ```bash
-php artisan vendor:publish --provider="Codingwithrk\RkSweetAlert\SweetAlertServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Codingwithrk\RkSweetAlert\RkSweetAlertServiceProvider" --tag="config"
 ```
 
 ## License
