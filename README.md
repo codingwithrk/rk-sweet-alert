@@ -1,4 +1,4 @@
-![Screenshot](https://codingwithrk.com/public/package-banner/rk-sweet-alert.png)
+![Image](https://codingwithrk.com/package-banner/rk-sweet-alert.png)
 
 <p align="center">
     <a>
